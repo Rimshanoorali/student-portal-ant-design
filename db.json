@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "stuname": "sdd",
+      "email": "sd",
+      "id": 5
+    },
+    {
+      "stuname": "dsww",
+      "email": "webd1546@gmail.com",
+      "id": 9
+    },
+    {
+      "stuname": "sdsd",
+      "email": "asdsd",
+      "id": 12
+    },
+    {
+      "stuname": "sdsd",
+      "email": "sdsd",
+      "id": 13
+    }
+  ]
+}
